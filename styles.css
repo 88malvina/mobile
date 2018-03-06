@@ -26,6 +26,7 @@ p {
   left: 0;
 }
 .intro {
+	background-color: green;
   width: 75%;
   margin: 55% auto 0;
   font-family: Montserrat, sans-serif;
