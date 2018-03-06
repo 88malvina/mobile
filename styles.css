@@ -13,7 +13,7 @@ p {
   margin: 0 0 1em;
 }
 .container {
-  width: 100%;
+  width: 50%;
   margin: 0 auto;
 }
 .picture, .resume {
@@ -26,7 +26,6 @@ p {
   left: 0;
 }
 .intro {
-	background-color: green;
   width: 75%;
   margin: 55% auto 0;
   font-family: Montserrat, sans-serif;
